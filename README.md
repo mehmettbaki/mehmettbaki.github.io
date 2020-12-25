@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi there! 
+Hi there! :hand:
 
 ![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) 
 
