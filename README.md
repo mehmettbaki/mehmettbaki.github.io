@@ -6,9 +6,9 @@ Hi there!
 
 
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am animal lover person. I am engineer who graduated from _Bursa Technical University Mechatronics Engineering Department_ in 2019
 
 ```markdown
 Syntax highlighted code block
