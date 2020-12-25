@@ -4,7 +4,7 @@ Hi there!
 
 ![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) 
 
-:point_right:[feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
+[feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
 
 
 
