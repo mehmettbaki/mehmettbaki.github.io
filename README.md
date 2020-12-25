@@ -2,7 +2,7 @@
 
 Hi there! 
 
-![Image](https://media-exp1.licdn.com/dms/image/C4D35AQFblSMhYGPdGg/profile-framedphoto-shrink_100_100/0/1607689892650?e=1609012800&v=beta&t=ttlWy5ykn6dyPnYFde5edD-znyVNyprtWXXXymqaofM)
+![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg)
 
 
 
