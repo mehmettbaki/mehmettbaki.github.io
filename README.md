@@ -2,7 +2,9 @@
 
 Hi there! 
 
-![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) Format: ![feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
+![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) 
+
+[feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
 
 
 
