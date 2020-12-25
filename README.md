@@ -12,10 +12,11 @@ I am an animal lover person. I am engineer who graduated from _Bursa Technical U
 
 
 
-**I am interested in** 
--Automation
--Industry4.0
--Data
--Robotics
+**I am interested in**:
+
+- Automation
+- Digital Transformation (Industry4.0)
+- Data
+- Robotics
 
 
