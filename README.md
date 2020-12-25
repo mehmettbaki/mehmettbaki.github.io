@@ -1,6 +1,6 @@
-## :heart_eyes: Welcome :heart_eyes:
+## Welcome
 
-Hi there! :hand:
+Hi there! 
 
 ![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) 
 
