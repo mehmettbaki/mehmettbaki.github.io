@@ -1,10 +1,10 @@
-## Welcome
+## :heart_eyes: Welcome :heart_eyes:
 
 Hi there! :hand:
 
 ![profile](https://raw.githubusercontent.com/mehmettbaki/mehmettbaki.github.io/main/trabzon%20(2).jpg) 
 
-[feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
+:point_right:[feel free to add me on linkedin ](https://www.linkedin.com/in/mehmetnhisworld/)
 
 
 
